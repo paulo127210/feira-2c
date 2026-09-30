@@ -1,0 +1,11 @@
+{
+  "name": "feira-2c",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pesquisa de preferências da Feira Empresarial do 2º C",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0"
+  },
+  "engines": { "node": ">=20" }
+}
